@@ -1,125 +1,125 @@
 {
- "updated": "2026-11-25 08:29 UTC",
+ "updated": "2026-11-25 19:13 UTC",
  "nodes": [
   {
    "file": "JP-01.ovpn",
    "country": "JP",
-   "ip": "153.232.30.226",
-   "isp": "NTT Communications Corporation",
+   "ip": "36.14.180.163",
+   "isp": "Kddi Corporation",
    "proxy_flag": false,
-   "speed_mbps": 80,
-   "sessions": 78,
-   "score": 1535170
+   "speed_mbps": 77,
+   "sessions": 75,
+   "score": 1570852
   },
   {
    "file": "JP-02.ovpn",
    "country": "JP",
-   "ip": "114.187.177.140",
-   "isp": "NTT Communications Corporation",
+   "ip": "118.153.226.74",
+   "isp": "Kddi Corporation",
    "proxy_flag": false,
-   "speed_mbps": 89,
-   "sessions": 34,
-   "score": 1489339
+   "speed_mbps": 623,
+   "sessions": 80,
+   "score": 1470664
   },
   {
    "file": "JP-03.ovpn",
    "country": "JP",
-   "ip": "60.236.15.105",
-   "isp": "BIGLOBE Inc.",
+   "ip": "126.84.60.88",
+   "isp": "SoftBank Corp.",
    "proxy_flag": false,
-   "speed_mbps": 11,
-   "sessions": 66,
-   "score": 1189640
+   "speed_mbps": 522,
+   "sessions": 28,
+   "score": 1128416
   },
   {
    "file": "JP-04.ovpn",
    "country": "JP",
-   "ip": "180.36.178.143",
+   "ip": "180.51.48.222",
    "isp": "NTT Communications Corporation",
    "proxy_flag": false,
-   "speed_mbps": 187,
-   "sessions": 45,
-   "score": 1116768
+   "speed_mbps": 34,
+   "sessions": 35,
+   "score": 1070905
   },
   {
    "file": "JP-05.ovpn",
    "country": "JP",
-   "ip": "180.36.178.143",
-   "isp": "NTT Communications Corporation",
+   "ip": "118.154.24.167",
+   "isp": "DION (KDDI CORPORATION)",
    "proxy_flag": false,
-   "speed_mbps": 265,
-   "sessions": 65,
-   "score": 1109714
+   "speed_mbps": 790,
+   "sessions": 82,
+   "score": 799268
   },
   {
    "file": "JP-06.ovpn",
    "country": "JP",
-   "ip": "115.38.22.45",
-   "isp": "Chubu Telecommunications Company, Inc.",
+   "ip": "150.31.13.219",
+   "isp": "Internet Initiative Japan Inc.",
    "proxy_flag": false,
-   "speed_mbps": 573,
-   "sessions": 73,
-   "score": 949609
+   "speed_mbps": 82,
+   "sessions": 72,
+   "score": 766363
   },
   {
    "file": "KR-01.ovpn",
    "country": "KR",
-   "ip": "118.91.21.180",
-   "isp": "HYUNDAI COMMUNICATIONS & NETWORK",
+   "ip": "211.213.98.231",
+   "isp": "SK Broadband Co Ltd",
    "proxy_flag": false,
-   "speed_mbps": 69,
-   "sessions": 54,
-   "score": 1384414
+   "speed_mbps": 339,
+   "sessions": 61,
+   "score": 1105224
   },
   {
    "file": "KR-02.ovpn",
    "country": "KR",
-   "ip": "14.53.197.8",
+   "ip": "175.206.50.149",
    "isp": "Korea Telecom",
    "proxy_flag": false,
-   "speed_mbps": 30,
-   "sessions": 11,
-   "score": 1311865
+   "speed_mbps": 155,
+   "sessions": 50,
+   "score": 929204
   },
   {
    "file": "KR-03.ovpn",
-   "country": "KR",
-   "ip": "183.107.0.122",
-   "isp": "Korea Telecom",
-   "proxy_flag": false,
-   "speed_mbps": 186,
-   "sessions": 10,
-   "score": 1051961
-  },
-  {
-   "file": "KR-04.ovpn",
    "country": "KR",
    "ip": "14.51.78.110",
    "isp": "Korea Telecom",
    "proxy_flag": false,
    "speed_mbps": 276,
-   "sessions": 45,
-   "score": 845327
+   "sessions": 54,
+   "score": 898158
+  },
+  {
+   "file": "KR-04.ovpn",
+   "country": "KR",
+   "ip": "211.107.91.211",
+   "isp": "Korea Telecom",
+   "proxy_flag": false,
+   "speed_mbps": 63,
+   "sessions": 21,
+   "score": 742687
   },
   {
    "file": "KR-05.ovpn",
    "country": "KR",
-   "ip": "175.127.130.87",
-   "isp": "SK Broadband Co Ltd",
+   "ip": "112.168.184.49",
+   "isp": "Korea Telecom",
    "proxy_flag": false,
-   "speed_mbps": 86,
-   "sessions": 18,
-   "score": 733744
+   "speed_mbps": 36,
+   "sessions": 16,
+   "score": 730470
   },
   {
    "file": "KR-06.ovpn",
    "country": "KR",
-   "ip": "220.80.160.113",
+   "ip": "118.36.86.149",
    "isp": "Korea Telecom",
    "proxy_flag": false,
-   "speed_mbps": 627,
-   "sessions": 1,
-   "score": 674192
+   "speed_mbps": 92,
+   "sessions": 42,
+   "score": 717206
   }
  ]
 }
